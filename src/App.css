@@ -1,0 +1,13 @@
+.centered-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 40vh;
+  text-align: center;
+}
+.i1 {
+  border: 2px solid black;
+  width: 450px;
+  height: 300px;
+}
